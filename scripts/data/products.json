@@ -1,0 +1,194 @@
+{"index": {}}
+{"name": "iPhone 15", "price": 120000, "category": "smartphone", "description": "Latest Apple smartphone"}
+{"index": {}}
+{"name": "iPhone 15 Pro", "price": 160000, "category": "smartphone", "description": "Pro Apple smartphone"}
+{"index": {}}
+{"name": "iPhone 14", "price": 100000, "category": "smartphone", "description": "Previous generation Apple smartphone"}
+{"index": {}}
+{"name": "Galaxy S24", "price": 130000, "category": "smartphone", "description": "Samsung flagship smartphone"}
+{"index": {}}
+{"name": "Galaxy S24 Ultra", "price": 180000, "category": "smartphone", "description": "Samsung premium smartphone"}
+{"index": {}}
+{"name": "Pixel 8", "price": 90000, "category": "smartphone", "description": "Google smartphone"}
+{"index": {}}
+{"name": "Pixel 8 Pro", "price": 120000, "category": "smartphone", "description": "Google pro smartphone"}
+{"index": {}}
+{"name": "Xperia 1 V", "price": 150000, "category": "smartphone", "description": "Sony flagship smartphone"}
+{"index": {}}
+{"name": "AQUOS R8", "price": 130000, "category": "smartphone", "description": "Sharp smartphone"}
+{"index": {}}
+{"name": "MacBook Air M3", "price": 180000, "category": "laptop", "description": "Lightweight Apple laptop"}
+{"index": {}}
+{"name": "MacBook Pro 14", "price": 280000, "category": "laptop", "description": "Pro Apple laptop"}
+{"index": {}}
+{"name": "MacBook Pro 16", "price": 350000, "category": "laptop", "description": "Large screen Apple laptop"}
+{"index": {}}
+{"name": "ThinkPad X1 Carbon", "price": 200000, "category": "laptop", "description": "Business Lenovo laptop"}
+{"index": {}}
+{"name": "ThinkPad T14", "price": 150000, "category": "laptop", "description": "Standard Lenovo laptop"}
+{"index": {}}
+{"name": "Dell XPS 13", "price": 180000, "category": "laptop", "description": "Compact Dell laptop"}
+{"index": {}}
+{"name": "Dell XPS 15", "price": 250000, "category": "laptop", "description": "High performance Dell laptop"}
+{"index": {}}
+{"name": "HP Spectre x360", "price": 200000, "category": "laptop", "description": "2-in-1 HP laptop"}
+{"index": {}}
+{"name": "Surface Laptop 5", "price": 180000, "category": "laptop", "description": "Microsoft laptop"}
+{"index": {}}
+{"name": "Surface Pro 9", "price": 200000, "category": "laptop", "description": "Microsoft tablet PC"}
+{"index": {}}
+{"name": "iPad Pro 12.9", "price": 170000, "category": "tablet", "description": "Large screen Apple tablet"}
+{"index": {}}
+{"name": "iPad Pro 11", "price": 130000, "category": "tablet", "description": "Compact Apple pro tablet"}
+{"index": {}}
+{"name": "iPad Air", "price": 90000, "category": "tablet", "description": "Lightweight Apple tablet"}
+{"index": {}}
+{"name": "iPad mini", "price": 70000, "category": "tablet", "description": "Small Apple tablet"}
+{"index": {}}
+{"name": "iPad 10th Gen", "price": 50000, "category": "tablet", "description": "Entry level Apple tablet"}
+{"index": {}}
+{"name": "Galaxy Tab S9", "price": 120000, "category": "tablet", "description": "Samsung tablet"}
+{"index": {}}
+{"name": "Galaxy Tab S9 Ultra", "price": 180000, "category": "tablet", "description": "Samsung large screen tablet"}
+{"index": {}}
+{"name": "Pixel Tablet", "price": 80000, "category": "tablet", "description": "Google tablet"}
+{"index": {}}
+{"name": "Fire HD 10", "price": 20000, "category": "tablet", "description": "Amazon tablet"}
+{"index": {}}
+{"name": "Fire HD 8", "price": 15000, "category": "tablet", "description": "Amazon compact tablet"}
+{"index": {}}
+{"name": "AirPods Pro 2", "price": 35000, "category": "audio", "description": "Apple noise cancelling earbuds"}
+{"index": {}}
+{"name": "AirPods 3rd Gen", "price": 25000, "category": "audio", "description": "Apple wireless earbuds"}
+{"index": {}}
+{"name": "AirPods Max", "price": 80000, "category": "audio", "description": "Apple headphones"}
+{"index": {}}
+{"name": "Sony WH-1000XM5", "price": 50000, "category": "audio", "description": "Sony noise cancelling headphones"}
+{"index": {}}
+{"name": "Sony WF-1000XM5", "price": 40000, "category": "audio", "description": "Sony noise cancelling earbuds"}
+{"index": {}}
+{"name": "Bose QuietComfort Ultra", "price": 55000, "category": "audio", "description": "Bose headphones"}
+{"index": {}}
+{"name": "Bose QuietComfort Earbuds", "price": 35000, "category": "audio", "description": "Bose earbuds"}
+{"index": {}}
+{"name": "Galaxy Buds2 Pro", "price": 25000, "category": "audio", "description": "Samsung earbuds"}
+{"index": {}}
+{"name": "Pixel Buds Pro", "price": 25000, "category": "audio", "description": "Google earbuds"}
+{"index": {}}
+{"name": "Beats Studio Pro", "price": 45000, "category": "audio", "description": "Beats headphones"}
+{"index": {}}
+{"name": "Apple Watch Ultra 2", "price": 130000, "category": "wearable", "description": "Apple outdoor smartwatch"}
+{"index": {}}
+{"name": "Apple Watch Series 9", "price": 60000, "category": "wearable", "description": "Apple smartwatch"}
+{"index": {}}
+{"name": "Apple Watch SE", "price": 35000, "category": "wearable", "description": "Apple entry smartwatch"}
+{"index": {}}
+{"name": "Galaxy Watch 6", "price": 50000, "category": "wearable", "description": "Samsung smartwatch"}
+{"index": {}}
+{"name": "Galaxy Watch 6 Classic", "price": 60000, "category": "wearable", "description": "Samsung classic smartwatch"}
+{"index": {}}
+{"name": "Pixel Watch 2", "price": 50000, "category": "wearable", "description": "Google smartwatch"}
+{"index": {}}
+{"name": "Garmin Fenix 7", "price": 100000, "category": "wearable", "description": "Garmin GPS watch"}
+{"index": {}}
+{"name": "Fitbit Charge 6", "price": 25000, "category": "wearable", "description": "Fitbit fitness tracker"}
+{"index": {}}
+{"name": "PS5", "price": 60000, "category": "gaming", "description": "Sony game console"}
+{"index": {}}
+{"name": "PS5 Digital Edition", "price": 50000, "category": "gaming", "description": "Sony digital game console"}
+{"index": {}}
+{"name": "Xbox Series X", "price": 55000, "category": "gaming", "description": "Microsoft game console"}
+{"index": {}}
+{"name": "Xbox Series S", "price": 35000, "category": "gaming", "description": "Microsoft entry game console"}
+{"index": {}}
+{"name": "Nintendo Switch OLED", "price": 38000, "category": "gaming", "description": "Nintendo OLED game console"}
+{"index": {}}
+{"name": "Nintendo Switch", "price": 33000, "category": "gaming", "description": "Nintendo game console"}
+{"index": {}}
+{"name": "Nintendo Switch Lite", "price": 22000, "category": "gaming", "description": "Nintendo portable game console"}
+{"index": {}}
+{"name": "Steam Deck", "price": 60000, "category": "gaming", "description": "Valve portable gaming PC"}
+{"index": {}}
+{"name": "ROG Ally", "price": 90000, "category": "gaming", "description": "ASUS portable gaming PC"}
+{"index": {}}
+{"name": "Meta Quest 3", "price": 75000, "category": "gaming", "description": "Meta VR headset"}
+{"index": {}}
+{"name": "OLED TV 55 inch", "price": 200000, "category": "tv", "description": "55 inch OLED television"}
+{"index": {}}
+{"name": "OLED TV 65 inch", "price": 300000, "category": "tv", "description": "65 inch OLED television"}
+{"index": {}}
+{"name": "OLED TV 77 inch", "price": 500000, "category": "tv", "description": "77 inch OLED television"}
+{"index": {}}
+{"name": "4K LCD TV 50 inch", "price": 80000, "category": "tv", "description": "50 inch 4K LCD television"}
+{"index": {}}
+{"name": "4K LCD TV 55 inch", "price": 100000, "category": "tv", "description": "55 inch 4K LCD television"}
+{"index": {}}
+{"name": "4K LCD TV 65 inch", "price": 150000, "category": "tv", "description": "65 inch 4K LCD television"}
+{"index": {}}
+{"name": "4K LCD TV 75 inch", "price": 200000, "category": "tv", "description": "75 inch 4K LCD television"}
+{"index": {}}
+{"name": "Portable TV", "price": 30000, "category": "tv", "description": "Portable small television"}
+{"index": {}}
+{"name": "Smart TV 32 inch", "price": 25000, "category": "tv", "description": "32 inch smart television"}
+{"index": {}}
+{"name": "Smart TV 43 inch", "price": 40000, "category": "tv", "description": "43 inch smart television"}
+{"index": {}}
+{"name": "Sony A7 IV", "price": 330000, "category": "camera", "description": "Sony full frame mirrorless camera"}
+{"index": {}}
+{"name": "Sony A7R V", "price": 500000, "category": "camera", "description": "Sony high resolution mirrorless camera"}
+{"index": {}}
+{"name": "Canon EOS R6 II", "price": 350000, "category": "camera", "description": "Canon mirrorless camera"}
+{"index": {}}
+{"name": "Canon EOS R8", "price": 250000, "category": "camera", "description": "Canon entry mirrorless camera"}
+{"index": {}}
+{"name": "Nikon Z8", "price": 550000, "category": "camera", "description": "Nikon flagship mirrorless camera"}
+{"index": {}}
+{"name": "Nikon Z6 III", "price": 350000, "category": "camera", "description": "Nikon all-round mirrorless camera"}
+{"index": {}}
+{"name": "Sony RX100 VII", "price": 150000, "category": "camera", "description": "Sony premium compact camera"}
+{"index": {}}
+{"name": "Ricoh GR III", "price": 130000, "category": "camera", "description": "Ricoh street camera"}
+{"index": {}}
+{"name": "GoPro HERO12", "price": 60000, "category": "camera", "description": "GoPro action camera"}
+{"index": {}}
+{"name": "Insta360 X3", "price": 70000, "category": "camera", "description": "360 degree camera"}
+{"index": {}}
+{"name": "Drum Washer Dryer", "price": 250000, "category": "appliance", "description": "Drum type washer with dryer"}
+{"index": {}}
+{"name": "Top Load Washer", "price": 100000, "category": "appliance", "description": "Large capacity top load washer"}
+{"index": {}}
+{"name": "Refrigerator 500L", "price": 250000, "category": "appliance", "description": "Large capacity refrigerator"}
+{"index": {}}
+{"name": "Refrigerator 400L", "price": 180000, "category": "appliance", "description": "Family size refrigerator"}
+{"index": {}}
+{"name": "Refrigerator 300L", "price": 120000, "category": "appliance", "description": "Medium size refrigerator"}
+{"index": {}}
+{"name": "Microwave Oven Combo", "price": 50000, "category": "appliance", "description": "Multi-function microwave oven"}
+{"index": {}}
+{"name": "Microwave Basic", "price": 15000, "category": "appliance", "description": "Simple microwave"}
+{"index": {}}
+{"name": "Cordless Vacuum", "price": 80000, "category": "appliance", "description": "Cordless stick vacuum cleaner"}
+{"index": {}}
+{"name": "Robot Vacuum", "price": 100000, "category": "appliance", "description": "Automatic robot vacuum cleaner"}
+{"index": {}}
+{"name": "Air Conditioner 6 Mat", "price": 80000, "category": "appliance", "description": "Room air conditioner for 6 mat"}
+{"index": {}}
+{"name": "Gaming Monitor 27 165Hz", "price": 50000, "category": "monitor", "description": "27 inch gaming monitor"}
+{"index": {}}
+{"name": "Gaming Monitor 32 240Hz", "price": 80000, "category": "monitor", "description": "32 inch high refresh rate monitor"}
+{"index": {}}
+{"name": "4K Monitor 27 inch", "price": 60000, "category": "monitor", "description": "27 inch 4K monitor"}
+{"index": {}}
+{"name": "4K Monitor 32 inch", "price": 80000, "category": "monitor", "description": "32 inch 4K monitor"}
+{"index": {}}
+{"name": "Ultrawide Monitor 34 inch", "price": 100000, "category": "monitor", "description": "34 inch ultrawide monitor"}
+{"index": {}}
+{"name": "Portable Monitor 15.6 inch", "price": 30000, "category": "monitor", "description": "15.6 inch mobile monitor"}
+{"index": {}}
+{"name": "Studio Display", "price": 220000, "category": "monitor", "description": "Apple 27 inch 5K monitor"}
+{"index": {}}
+{"name": "Pro Display XDR", "price": 650000, "category": "monitor", "description": "Apple 32 inch 6K monitor"}
+{"index": {}}
+{"name": "Dual Monitor Arm", "price": 15000, "category": "monitor", "description": "Dual monitor arm stand"}
+{"index": {}}
+{"name": "Single Monitor Arm", "price": 8000, "category": "monitor", "description": "Single monitor arm stand"}

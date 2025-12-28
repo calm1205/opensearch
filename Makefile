@@ -6,3 +6,6 @@ lint:
 
 create_mappings:
 	./scripts/create_mappings.sh
+
+add_index:
+	./scripts/add_index.sh
