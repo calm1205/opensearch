@@ -1,0 +1,27 @@
+services:
+  opensearch:
+    image: ${OPENSEARCH_IMAGE}
+    container_name: opensearch
+    environment:
+      - discovery.type=single-node
+      - DISABLE_SECURITY_PLUGIN=${DISABLE_SECURITY_PLUGIN}
+      - OPENSEARCH_INITIAL_ADMIN_PASSWORD=${OPENSEARCH_INITIAL_ADMIN_PASSWORD}
+    ports:
+      - "${OPENSEARCH_PORT}:9200"
+      - "${OPENSEARCH_PERF_PORT}:9600"
+    volumes:
+      - opensearch-data:/usr/share/opensearch/data
+
+  opensearch-dashboards:
+    image: ${DASHBOARDS_IMAGE}
+    container_name: opensearch-dashboards
+    environment:
+      - OPENSEARCH_HOSTS=["http://opensearch:9200"]
+      - DISABLE_SECURITY_DASHBOARDS_PLUGIN=${DISABLE_SECURITY_DASHBOARDS_PLUGIN}
+    ports:
+      - "${DASHBOARDS_PORT}:5601"
+    depends_on:
+      - opensearch
+
+volumes:
+  opensearch-data:
