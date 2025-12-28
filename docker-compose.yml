@@ -23,16 +23,5 @@ services:
     volumes:
       - opensearch-data:/usr/share/opensearch/data
 
-  opensearch-dashboards:
-    build: ./opensearch-dashboards
-    container_name: opensearch-dashboards
-    environment:
-      - OPENSEARCH_HOSTS=["http://opensearch:9200"]
-      - DISABLE_SECURITY_DASHBOARDS_PLUGIN=${DISABLE_SECURITY_DASHBOARDS_PLUGIN}
-    ports:
-      - "5601:5601"
-    depends_on:
-      - opensearch
-
 volumes:
   opensearch-data:
