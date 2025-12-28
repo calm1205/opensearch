@@ -1,3 +1,3 @@
 FROM opensearchproject/opensearch-dashboards:latest
 
-COPY opensearch_dashboards.yml /usr/share/opensearch-dashboards/config/opensearch_dashboards.yml
+COPY --chown=opensearch-dashboards:opensearch-dashboards opensearch_dashboards.yml /usr/share/opensearch-dashboards/config/opensearch_dashboards.yml
