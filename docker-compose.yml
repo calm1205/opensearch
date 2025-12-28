@@ -1,6 +1,6 @@
 services:
   opensearch:
-    image: ${OPENSEARCH_IMAGE}
+    build: ./opensearch
     container_name: opensearch
     environment:
       - discovery.type=single-node
@@ -13,7 +13,7 @@ services:
       - opensearch-data:/usr/share/opensearch/data
 
   opensearch-dashboards:
-    image: ${DASHBOARDS_IMAGE}
+    build: ./opensearch-dashboards
     container_name: opensearch-dashboards
     environment:
       - OPENSEARCH_HOSTS=["http://opensearch:9200"]
